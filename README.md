@@ -1,3 +1,3 @@
-# Backend Branch
+# Testing MCP
 
-This branch (`backend`) is dedicated to backend development for the `softwareBSP` project. It includes all backend-related features, updates, and configurations.
+Este proyecto es un ejemplo de MCP (Model Context Protocol) diseñado para consultar el clima de una ciudad. Incluye un backend básico que permite realizar solicitudes para obtener información meteorológica utilizando una API externa.
