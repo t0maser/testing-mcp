@@ -12,6 +12,6 @@ Este proyecto es un ejemplo de MCP (Model Context Protocol) diseñado para consu
    ```
 4. Ejecuta el proyecto utilizando el siguiente comando:
    ```bash
-   npm start
+   npx tsx main.ts
    ```
 5. Abre el terminal integrado de Visual Studio Code para ver los logs o resultados.
